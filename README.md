@@ -7,7 +7,7 @@ Completed SpaceX capstone notebooks, dashboard, datasets and verified results.
 - `dashboard/`: interactive Plotly Dash application and its input CSV.
 - `data/`: wrangled 90-launch dataset and 80-column encoded feature matrix.
 - `results/`: classifier comparison and launch-site analysis.
-- `report/`: final presentation in PDF format (added when complete).
+- `report/`: [Data Science Capstone Project Report.pdf](report/Data%20Science%20Capstone%20Project%20Report.pdf), the final 47-slide presentation.
 
 ## Run
 Install the packages in `requirements.txt`, then open the notebooks in Jupyter. Notebook data downloads use IBM Skills Network sources. For the dashboard, run from the `dashboard` directory:
