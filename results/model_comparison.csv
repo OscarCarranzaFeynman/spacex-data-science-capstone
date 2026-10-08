@@ -1,0 +1,5 @@
+Model,CV_accuracy,Test_accuracy,Best_parameters
+Decision Tree,0.8767857142857143,0.8333333333333334,"{'criterion': 'gini', 'max_depth': 8, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 10, 'splitter': 'best'}"
+KNN,0.8482142857142858,0.8333333333333334,"{'algorithm': 'auto', 'n_neighbors': 10, 'p': 1}"
+SVM,0.8482142857142856,0.8333333333333334,"{'C': np.float64(1.0), 'gamma': np.float64(0.03162277660168379), 'kernel': 'sigmoid'}"
+Logistic Regression,0.8464285714285713,0.8333333333333334,"{'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}"

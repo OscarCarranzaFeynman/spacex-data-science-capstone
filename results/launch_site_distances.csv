@@ -1,0 +1,6 @@
+Type,Name,Lat,Long,Source,Distance_km
+Coastline,Coastline,28.564217478277158,-80.56812809513677,https://www.openstreetmap.org/way/22322002,0.8566794263449602
+Railway,Railway,28.564743644959723,-80.58664361310043,https://www.openstreetmap.org/way/96332393,0.9749731751113075
+Road,Samuel C Phillips Parkway,28.563847168183663,-80.57085501783492,https://www.openstreetmap.org/way/136038500,0.5872004365495787
+Highway,Bennett Causeway,28.4057175,-80.6220155,https://www.openstreetmap.org/way/40260986,18.065134330590364
+City,Cape Canaveral,28.3881442,-80.6056464,https://www.openstreetmap.org/node/154352850,19.674041313503704
